@@ -26,24 +26,6 @@ This is the main repository of the Machine learning course teach at November/Dec
 
 ## Getting Started
 
-### Pre Setup
-* Make an account on github.com
-  * Does not have to be your regular account. You could also make a temporary one just for this class/project
-  * You will use this account for all your projects
-  * You will have the option to set up a landing web page to publish your project beautifully as well
-
-* **Send us your github ID**
-  * This is very important, as we will be assigning the teams according to your IDs
-  * Also send us your knowledge level in Machine learning (Beginner/Intermediate/Expert)
-
-* If you are new to git and/or github and will be using it from windows
-  * Download GitHub Desktop (https://desktop.github.com/ )
-  * Go through a couple of simple git tutorials understanding the purpose of git (https://guides.github.com/activities/hello-world/)
-
-* If you're familiar with python, you can skip the Python setup section
-  * If not, I'd suggest you install python the same way mentioned
-
-
 ### Python Installation
 #### Windows Installation
 
